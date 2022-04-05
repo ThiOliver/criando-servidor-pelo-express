@@ -1,0 +1,20 @@
+{
+  "name": "criando-servidor-pelo-express",
+  "version": "1.0.0",
+  "description": "Repositório para criarmos um servidor node através do  framework express.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiOliver/criando-servidor-pelo-express.git"
+  },
+  "keywords": ["nodejs", "express"],
+  "author": "Thiago Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThiOliver/criando-servidor-pelo-express/issues"
+  },
+  "homepage": "https://github.com/ThiOliver/criando-servidor-pelo-express#readme"
+}

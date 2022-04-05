@@ -10,11 +10,20 @@
     "type": "git",
     "url": "git+https://github.com/ThiOliver/criando-servidor-pelo-express.git"
   },
-  "keywords": ["nodejs", "express"],
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
   "author": "Thiago Oliveira",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ThiOliver/criando-servidor-pelo-express/issues"
   },
-  "homepage": "https://github.com/ThiOliver/criando-servidor-pelo-express#readme"
+  "homepage": "https://github.com/ThiOliver/criando-servidor-pelo-express#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
